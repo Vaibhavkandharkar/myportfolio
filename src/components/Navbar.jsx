@@ -2,7 +2,7 @@ import React from 'react'
 
 import { FaGithub, FaLinkedinIn, FaSquareInstagram, FaSquareXTwitter } from "react-icons/fa6"
 
-import logo from "../assets/Logos/vsk-soft-dev.PNG"
+import logo from "../assets/Logos/vsk-soft-dev.png"
 const Navbar = () => {
   return (
     <nav className='flex items-ceter justify-between'>
