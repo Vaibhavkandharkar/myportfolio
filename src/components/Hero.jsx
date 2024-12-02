@@ -57,7 +57,7 @@ const Hero = () => {
             </motion.span>
             <motion.p
               variants={childVariants}
-              className="my-2 max-w-lg py-6  text-xl tracking-tigh tracking-tighter"
+              className="my-2 max-w-lg py-6  text-xl text-justify tracking-tigh tracking-tighter"
             >
               {HERO_CONTENT}
             </motion.p>
