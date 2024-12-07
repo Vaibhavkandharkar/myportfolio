@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
 
-export const HERO_CONTENT = `As a passionate Web Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful web solutions. Over the past nine months, I have honed my skills in full-stack and front-end development, crafting dynamic websites from scratch and utilizing technologies like ReactJS, Javascript, MongoDB, Expressjs, nodejs, HTML, CSS, Bootstrap, and PHP.`;
+export const HERO_CONTENT = `As a passionate Full Stack Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful web solutions. Over the past nine months, I have honed my skills in full-stack and front-end development, crafting dynamic websites from scratch and utilizing technologies like ReactJS, Javascript, MongoDB, Expressjs, nodejs, HTML, CSS, Bootstrap, and PHP.`;
 
 // I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
 
@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "Junior Full Stack Developer",
     company: "PayperJump Pvt LTD.",
-    description: `As a Website Developer at PayPerJump Pvt. Ltd., I have successfully delivered dynamic, responsive websites and live projects tailored to client needs. My portfolio includes work for esteemed clients such as Bhaishree, Riverdale School, and Lakhani Hyundai. I have also developed robust dashboards for seamless data manipulation and management, ensuring user-friendly interfaces and efficient backend systems. My role involved utilizing modern web technologies to create impactful digital experiences that align with client objectives.`,
+    description: `As a Junior Full Stack Developer at PayPerJump Pvt. Ltd., I have successfully delivered dynamic, responsive websites and live projects tailored to client needs. My portfolio includes work for esteemed clients such as Bhaishree, Riverdale School, and Lakhani Hyundai. I have also developed robust dashboards for seamless data manipulation and management, ensuring user-friendly interfaces and efficient backend systems. My role involved utilizing modern web technologies to create impactful digital experiences that align with client objectives.`,
     technologies: ["HTML", "CSS", "Javascript","PHP","React.js","Bootstrap","SQL Database"],
   },
   // {
