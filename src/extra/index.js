@@ -17,20 +17,7 @@ export const EXPERIENCES = [
     description: `As a Front-End Developer at PayPerJump Pvt. Ltd., I have successfully delivered dynamic, responsive websites and live projects tailored to client needs. My portfolio includes work for esteemed clients such as Bhaishree, Riverdale School, and Lakhani Hyundai. I have also developed robust dashboards for seamless data manipulation and management, ensuring user-friendly interfaces and efficient backend systems. My role involved utilizing modern web technologies to create impactful digital experiences that align with client objectives.`,
     technologies: ["HTML", "CSS", "Javascript","PHP","React.js","Bootstrap","SQL Database"],
   },
-  // {
-  //   year: "2022 - 2023",
-  //   role: "Frontend Developer",
-  //   company: "Adobe",
-  //   description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-  //   technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  // },
-  // {
-  //   year: "2021 - 2022",
-  //   role: "Full Stack Developer",
-  //   company: "Facebook",
-  //   description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-  //   technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  // },
+  
   // {
   //   year: "2020 - 2021",
   //   role: "Software Engineer",
@@ -41,6 +28,21 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Full Stack Gmail Clone",
+    image: project1,
+    description:
+      "I built a Gmail Clone using the MERN stack where users can register, log in, view multiple emails, and send emails that appear in the recipient’s actual Gmail inbox. The frontend was developed with React.js and styled using TailwindCSS, while the backend was powered by Node.js, Express.js, and MongoDB. I used JWT for secure authentication and integrated Nodemailer to handle real email sending. The project helped me understand full-stack development, email APIs, and user authentication in depth.",
+    technologies: ["Reactjs","HTML", "CSS", "Javascript","Nodejs","Tailwindcss","Expressjs","MongoDB"],
+  }, 
+  {
+    title: "Full Stack Book My Show Mini Project",
+    image: project1,
+    description:
+      "I’ve built a complete end-to-end application where I handled everything—from designing the user interface with React.js to setting up the backend using Node.js and Express, and connecting it all with a MongoDB database. Every part of the app was carefully crafted to work smoothly together, just like in real-world scenarios. This project helped me bring everything I’ve learned into action and truly sharpened my skills as a full-stack developer.",
+    technologies: ["Reactjs","HTML", "CSS", "Javascript","Nodejs","Tailwindcss","Expressjs","MongoDB"],
+  }, 
+
   {
     title: "E-Commerce Website",
     image: project1,
