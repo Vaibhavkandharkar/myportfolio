@@ -37,7 +37,7 @@ export const PROJECTS = [
   }, 
   {
     title: "Full Stack Book My Show Mini Project",
-    image: project1,
+    image: project2,
     description:
       "I’ve built a complete end-to-end application where I handled everything—from designing the user interface with React.js to setting up the backend using Node.js and Express, and connecting it all with a MongoDB database. Every part of the app was carefully crafted to work smoothly together, just like in real-world scenarios. This project helped me bring everything I’ve learned into action and truly sharpened my skills as a full-stack developer.",
     technologies: ["Reactjs","HTML", "CSS", "Javascript","Nodejs","Tailwindcss","Expressjs","MongoDB"],
@@ -45,7 +45,7 @@ export const PROJECTS = [
 
   {
     title: "E-Commerce Website",
-    image: project1,
+    image: project2,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "Javascript"],
