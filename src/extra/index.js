@@ -11,7 +11,7 @@ export const HERO_CONTENT = `As a passionate Full Stack Developer and a B.Tech s
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2025 - Present",
     role: "Front-End Developer",
     company: "PayperJump Pvt LTD.",
     description: `As a Web Developer at PayPerJump Pvt. Ltd., a fast-growing digital marketing agency, I’ve had the privilege to work on a variety of impactful projects for clients across diverse industries. Over the past 1 year and 2 months, I’ve been a core team member, responsible for developing responsive websites, admin panels, and custom content management systems using ReactJS, PHP, HTML, CSS, and SQL. Notable projects include creating digital solutions for Lakhani Hyundai, Basil Kitchen, Vistaar Group, Bhaishree Realty, Infinity Business Park, and many more. My contributions have spanned from project inception to delivery, ensuring each website is not only optimized for performance but also SEO-friendly and user-centric. This hands-on experience has allowed me to refine my technical skills while working collaboratively to meet client needs and deadlines.`,
