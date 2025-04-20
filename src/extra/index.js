@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/gmail.webp";
 import project2 from "../assets/projects/img1.webp";
 import project3 from "../assets/projects/project-3.webp";
+import project5 from "../assets/projects/img2.webp"
 import project4 from "../assets/projects/project-4.webp";
 
 export const HERO_CONTENT = `As a passionate Full Stack Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful web solutions. Over the past Ten months, I have honed my skills in front-end and full-stack development, crafting dynamic websites from scratch and utilizing technologies like ReactJS, Javascript, MongoDB, Expressjs, nodejs, HTML, CSS, Bootstrap, and PHP.`;
@@ -45,7 +46,7 @@ export const PROJECTS = [
 
   {
     title: "E-Commerce Website",
-    image: project3,
+    image: project5,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "Javascript"],
