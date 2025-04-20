@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/gmail.webp";
-import project2 from "../assets/projects/img1.PNG";
+import project2 from "../assets/projects/img1.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
 
