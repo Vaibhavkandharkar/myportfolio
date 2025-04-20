@@ -4,6 +4,8 @@ import project3 from "../assets/projects/project-3.webp";
 import project5 from "../assets/projects/img2.webp"
 import project4 from "../assets/projects/project-4.webp";
 import project6 from "../assets/projects/img3.webp";
+import project7 from "../assets/projects/card.webp"
+
 
 export const HERO_CONTENT = `As a passionate Full Stack Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful web solutions. Over the past Ten months, I have honed my skills in front-end and full-stack development, crafting dynamic websites from scratch and utilizing technologies like ReactJS, Javascript, MongoDB, Expressjs, nodejs, HTML, CSS, Bootstrap, and PHP.`;
 
@@ -68,7 +70,7 @@ export const PROJECTS = [
   },
   {
     title: "Reactjs-SlideCard",
-    image: project4,
+    image: project7,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["Reactjs", "Framer Motion","Tailwindcss", ""],
