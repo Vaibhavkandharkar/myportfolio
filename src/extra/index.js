@@ -7,15 +7,16 @@ import project6 from "../assets/projects/img3.webp";
 import project7 from "../assets/projects/card.webp"
 
 
-export const HERO_CONTENT = `As a passionate Full Stack Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful web solutions. Over the past Ten months, I have honed my skills in front-end and full-stack development, crafting dynamic websites from scratch and utilizing technologies like ReactJS, Javascript, MongoDB, Expressjs, nodejs, HTML, CSS, Bootstrap, and PHP.`;
+export const HERO_CONTENT = `As a passionate Full Stack Java Developer and a B.Tech student in Computer Science and Engineering at CSMSS Chh. Shahu College of Engineering, I thrive at the intersection of innovation and practicality. My role at PayPerJump Pvt. Ltd. has enabled me to merge academic knowledge with real-world challenges, delivering impactful backend and full-stack solutions. Over the past ten months, I have honed my skills in Java development, working with Java, Spring Boot, Hibernate, MySQL, REST APIs, and building scalable modules that solve real user problems. I have also worked on crafting dynamic web interfaces using ReactJS, JavaScript, HTML, CSS, and Bootstrap, ensuring clean integration between the front-end and back-end layers.`;
 
 export const EXPERIENCES = [
   {
-    year: "2025 - Present",
-    role: "Front-End Developer",
-    company: "PayperJump Pvt LTD.",
-    description: `As a Web Developer at PayPerJump Pvt. Ltd., a fast-growing digital marketing agency, I’ve had the privilege to work on a variety of impactful projects for clients across diverse industries. Over the past 1 year and 2 months, I’ve been a core team member, responsible for developing responsive websites, admin panels, and custom content management systems using ReactJS, PHP, HTML, CSS, and SQL. Notable projects include creating digital solutions for Lakhani Hyundai, Basil Kitchen, Vistaar Group, Bhaishree Realty, Infinity Business Park, and many more. My contributions have spanned from project inception to delivery, ensuring each website is not only optimized for performance but also SEO-friendly and user-centric. This hands-on experience has allowed me to refine my technical skills while working collaboratively to meet client needs and deadlines.`,
-    technologies: ["HTML", "CSS", "Javascript","PHP","React.js","Bootstrap","SQL Database"],
+ year: "2024- Present", 
+role: "Full Stack Java Developer",
+company: "PayPerJump Pvt. Ltd.",
+description: `As a Full Stack Java Developer at PayPerJump Pvt. Ltd., I’ve contributed to building high-quality, scalable web applications for clients across multiple domains. Over the past 1 year and 2 months, I have taken ownership of developing responsive websites, internal tools, and custom admin panels using Java, Spring Boot, Hibernate, MySQL, and modern front-end technologies. I’ve played a key role in delivering digital solutions for brands like Lakhani Hyundai, Basil Kitchen, Vistaar Group, Bhaishree Realty, and Infinity Business Park. My work spans from backend API development to UI integration, ensuring every project is fast, secure, SEO-friendly, and fully aligned with client requirements. This journey has strengthened my problem-solving abilities, sharpened my technical expertise, and taught me how to deliver clean, production-ready features under real-world deadlines.`,
+technologies: ["Java", "Spring Boot", "Hibernate", "MySQL", "HTML", "CSS", "JavaScript", "React.js", "Bootstrap"]
+
   },
   
   
