@@ -53,7 +53,7 @@ const Hero = () => {
               variants={childVariants}
               className="bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-3xl tracking-tighter text-transparent"
             >
-              Full Stack Developer
+              Full Java Stack Developer
             </motion.span>
             <motion.p
               variants={childVariants}
@@ -63,7 +63,7 @@ const Hero = () => {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="/resume.pdf"
+              href="../resume/Vaibhav-Kandharkar-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-full p-4  text-stone-800 mb-10"
